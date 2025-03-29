@@ -1,2 +1,5 @@
 # poe
-Path of Exile Simulation
+Collection of (thus far) 1 Path of Exile Simulation script.
+
+Uses python, python notebooks and numpy.
+
